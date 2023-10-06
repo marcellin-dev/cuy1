@@ -1,0 +1,38 @@
+
+.imh-hom-parent{
+  position: relative;
+  height: 230px;
+}
+.home-img{
+  height: 200px;
+  width: 50%;
+  position: absolute;
+  right: 70%;
+  top: 10px;
+  border-top-right-radius: 20px;
+}
+
+.c-green{
+  background-color: green;
+}
+
+.c-red{
+  background-color: red;
+}
+
+.c-yellow{
+  background-color: yellow;
+}
+
+.c-orange{
+    background-color: orange;
+}
+
+.my-border-green{
+  border: 1px solid rgba(128, 128, 128, 0.27);
+  border-right: 5px solid #87d068;
+}
+.my-border-red{
+  border: 1px solid rgba(128, 128, 128, 0.27);
+  border-right: 5px solid #f50;
+}
