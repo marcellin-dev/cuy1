@@ -25,7 +25,7 @@ const Event = (props) => {
         </div>
         <div className="col">
           {event.title}.
-          <button className="btn btn-success mx-1" onClick={showModal}>
+          <button className="btn btn-success mx-1 c-green" onClick={showModal}>
             Voir plus
           </button>
         </div>

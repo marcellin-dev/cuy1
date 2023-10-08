@@ -13,7 +13,7 @@
 }
 
 .c-green{
-  background-color: green;
+  background-color: #325902;
 }
 
 .c-red{
@@ -35,4 +35,14 @@
 .my-border-red{
   border: 1px solid rgba(128, 128, 128, 0.27);
   border-right: 5px solid #f50;
+}
+
+.over{
+  cursor: pointer;
+  transition: 1s;
+}
+.over:hover{
+  background-color: green;
+  transform: scale(1.02);
+
 }
