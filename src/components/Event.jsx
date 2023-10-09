@@ -21,7 +21,7 @@ const Event = (props) => {
     <>
       <div className="row mt-3">
         <div className="col-3">
-          <img src={mairie} alt="" height={100} width={"100%"} />
+          <img src={event.image} alt="" height={100} width={"100%"} />
         </div>
         <div className="col">
           {event.title}.
